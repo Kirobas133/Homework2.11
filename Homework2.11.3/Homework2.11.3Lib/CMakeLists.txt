@@ -1,0 +1,6 @@
+cmake_minimum_required (VERSION 3.10)
+set(CMAKE_CCX_STANDART 20)
+set(CMAKE_CXX_STANDART_REQUIRED True)
+project(Homework2.11.3Lib)
+set(SOURCE_DLL Homework2.11.3Lib.h Homework2.11.3Lib.cpp)
+add_library(Homework2.11.3Lib SHARED ${SOURCE_DLL})
