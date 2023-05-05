@@ -1,0 +1,6 @@
+C:/Users/Sosnovskiy_KG/Desktop/NetologyHomeworks/Homework2.11/Homework2.11.5/out/build/x64-Debug/CMakeFiles/Homework2.11.5.dir
+C:/Users/Sosnovskiy_KG/Desktop/NetologyHomeworks/Homework2.11/Homework2.11.5/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Sosnovskiy_KG/Desktop/NetologyHomeworks/Homework2.11/Homework2.11.5/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Sosnovskiy_KG/Desktop/NetologyHomeworks/Homework2.11/Homework2.11.5/out/build/x64-Debug/Homework2.11.5Lib/CMakeFiles/Homework2.11.5Lib.dir
+C:/Users/Sosnovskiy_KG/Desktop/NetologyHomeworks/Homework2.11/Homework2.11.5/out/build/x64-Debug/Homework2.11.5Lib/CMakeFiles/edit_cache.dir
+C:/Users/Sosnovskiy_KG/Desktop/NetologyHomeworks/Homework2.11/Homework2.11.5/out/build/x64-Debug/Homework2.11.5Lib/CMakeFiles/rebuild_cache.dir

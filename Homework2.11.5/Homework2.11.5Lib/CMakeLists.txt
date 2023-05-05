@@ -1,0 +1,6 @@
+cmake_minimum_required (VERSION 3.10)
+set(CMAKE_CCX_STANDART 20)
+set(CMAKE_CXX_STANDART_REQUIRED True)
+project(Homework2.11.5Lib)
+set(SOURCE_DLL FigureHeader.h FigureSource.cpp ParallelogramHeader.h ParallelogramSource.cpp QuadrilateralHeader.h QuadrilateralSource.cpp RectangleHeader.h RectangleSource.cpp RhombusHeader.h RhombusSource.cpp SquareHeader.h SquareSource.cpp Triangle2SideEqualHeader.h Triangle2SideEqualSource.cpp Triangle90Header.h Triangle90Source.cpp TriangleAllEqualHeader.h TriangleAllEqualSource.cpp TriangleHeader.h TriangleSource.cpp)
+add_library(Homework2.11.5Lib SHARED ${SOURCE_DLL})
