@@ -4,7 +4,7 @@
 
 #pragma once
 
-#ifdef Homework2112Lib_EXPORTS
+#ifdef HOMEWORK2112LIB_EXPORTS
 #define Homework_2112Lib_API __declspec(dllexport)
 #else
 #define Homework_2112Lib_API __declspec(dllimport)

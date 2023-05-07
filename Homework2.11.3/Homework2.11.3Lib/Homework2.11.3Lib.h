@@ -4,7 +4,7 @@
 
 #pragma once
 
-#ifdef MATHPOWERLIBRARYDYNAMIC_EXPORTS
+#ifdef HOMEWORK2113LIB_EXPORTS
 #define Homework_2113Lib_API __declspec(dllexport)
 #else
 #define Homework_2113Lib_API __declspec(dllimport)
