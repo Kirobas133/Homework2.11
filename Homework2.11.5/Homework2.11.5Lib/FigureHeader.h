@@ -1,6 +1,6 @@
 #pragma once
 #include <string>
-#ifdef HOMEWORK2115LIB_EXPORTS
+#ifdef Homework2_11_5Lib_EXPORTS
 #define Homework_2115Lib_API __declspec(dllexport)
 #else
 #define Homework_2115Lib_API __declspec(dllimport)
